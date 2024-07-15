@@ -19,11 +19,11 @@ body {
   font-family: "Alegreya", serif;
   font-optical-sizing: auto;
   font-weight:300;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 80px;
 }
 
 .U {
@@ -65,7 +65,7 @@ h1 {
   border-radius: 10px;
   display: inline-block;
   width: 190px;
-  height: 160px;
+  height: 220px;
   text-align: center;
   margin: 10px;
   background-color: #d8dc63;
